@@ -1,0 +1,12 @@
+{
+    "ID":"35d5cd6c-a36b-4790-9b91-d45b6a3fed33",
+    "ActionKeyword":"xsh",
+    "Name":"xsh",
+    "Description":"xshell session launcher",
+    "Author":"liangxh",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"https://github.com/Wox-launcher/Wox",
+    "ExecuteFileName":"wox.xshell.dll",
+    "IcoPath":"app.png"
+}
