@@ -50,7 +50,7 @@ namespace Wox.Plugin.XShell
             }
 
 
-            string[] strFilters = query.SecondToEndSearch.Split();
+            string[] strFilters = query.Search.Split();
             string[] strXshList = GetXshList();
             string[] strFilteredXshList = FilterStringList(strXshList, strFilters);
             foreach(string xsh in strFilteredXshList)
